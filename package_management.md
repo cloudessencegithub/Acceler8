@@ -7,7 +7,7 @@ By the end of this lesson, students will be able to:
 - Use the appropriate command line tools to manage packages on different Linux distributions
 - Evaluate the benefits and drawbacks of different package management systems.
 
-### Estimated Time: 5 hours
+### Estimated Time: 2 hours
 
 ## Introduction
 Package management is the process of installing, upgrading, configuring, and removing software packages to keep the system up-to-date and running smoothly. Package management is an important part of system administration, and it is one of the most important tasks that a system administrator performs on a daily basis. Package management is a critical part of the Linux system administration process, and it is one of the most important tasks that a system administrator performs on a daily basis.
