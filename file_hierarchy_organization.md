@@ -6,7 +6,7 @@ By the end of this lesson, students will be able to:
 - Understand the purpose and structure of directories, files, and file permissions
 - Be able to navigate, manipulate and organize files and directories using command line tools.
 
-### Estimated Time: 2 hours
+### Estimated Time: 5 hours
 
 ## Introduction
 The file system is the way in which files and directories are organized and stored on a computer. The file system is a hierarchical structure, which means that it is organized in a tree-like structure. The root directory is at the top of the tree and all other directories and files are organized below it. The root directory is represented by a single forward slash (/). The root directory is the parent directory of all other directories and files. The root directory is also known as the root directory or the root directory.
