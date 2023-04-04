@@ -12,6 +12,8 @@ By the end of this activity, you should be able to:
 - Understand how to use shell scripts to automate common system administration tasks.
 
 ### Estimated Time: 4 hours
+
+## Introduction
 Shell scripting is a way to automate tasks in Linux by writing scripts, or sequences of commands, that are executed by the shell (a command-line interpreter). Shell scripts are useful for automating repetitive tasks, setting up and maintaining systems, and performing administrative functions. A shell script is typically created by writing a series of commands in a text file, which is then executed by the shell. Shell scripts can be written in different shell languages, such as bash, csh, and ksh, and can include a variety of commands, including built-in shell commands, commands invoked from external programs, and control structures such as loops and conditional statements.
 
 ## Why is it important to know?
