@@ -27,3 +27,8 @@ System logging in Linux refers to the process of recording system events, such a
 - [Linux Logging Basics](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
 - [Watch: Linux Logging](https://www.youtube.com/watch?v=6uP_f_z3CbM)
 - [Watch: Linux Monitoring and Logging](https://www.youtube.com/watch?v=kZ5LhS6fThM)
+
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change.](https://github.com/cloudessencegithub/Acceler8/issues/new)_
