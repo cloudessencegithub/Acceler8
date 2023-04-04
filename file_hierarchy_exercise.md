@@ -19,6 +19,7 @@ IMPORTANT NOTE: Read all instructions carefully before starting the exercise.
 
 ### Submit your work
 - Create a document with the answers/commands you used to complete the exercise.
+- Add screenshots of the output of the commands you used to complete the exercise.
 - Submit your work on the slack channel for this activity.
 
 ------
