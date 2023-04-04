@@ -19,8 +19,8 @@ The file system is the way in which files and directories are organized and stor
 
 ## Resources
 - [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)
-- [Watch: Linux File System Hierarchy](https://www.youtube.com/watch?v=rWPXz_-yQHE)
 - [Watch: Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw&t=348s)
+- [Watch: The 50 Most Popular Linux & Terminal Commands](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
 
 ------
 
