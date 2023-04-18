@@ -16,11 +16,11 @@ GitHub is a web-based platform that provides hosting for Git repositories. It pr
 ## Why is it important to know?
 Version control is the practice of managing changes to documents, code, or other types of files over time. It is a crucial aspect of software development and other collaborative projects because it allows multiple people to work on the same codebase or document without interfering with each other's work.
 Here are some reasons why it is important to know version control:
-Collaboration: Version control systems allow multiple people to work on the same codebase or document without interfering with each other's work. Each person can make changes to a copy of the file and then merge their changes back into the main codebase or document.
-History tracking: Version control systems keep a history of every change made to a file, including who made the change and when. This allows developers to track down bugs, revert to a previous version, or see how the code or document has evolved over time.
-Backup: Version control systems provide a backup mechanism for your code or document. If your computer crashes or you accidentally delete a file, you can easily restore it from the version control system.
-Experimentation: Version control systems allow you to experiment with new features or changes without affecting the main codebase or document. You can create a branch, make changes, and then merge the changes back into the main codebase or document if they work as intended.
-Quality control: Version control systems provide a way to ensure that changes to the code or document are reviewed and approved before they are merged into the main codebase or document. This helps ensure that the code or document is of high quality and that changes do not introduce new bugs or issues.
+- Version control systems allow multiple people to work on the same codebase or document without interfering with each other's work. Each person can make changes to a copy of the file and then merge their changes back into the main codebase or document.
+- Version control systems keep a history of every change made to a file, including who made the change and when. This allows developers to track down bugs, revert to a previous version, or see how the code or document has evolved over time.
+- Version control systems provide a backup mechanism for your code or document. If your computer crashes or you accidentally delete a file, you can easily restore it from the version control system.
+- Version control systems allow you to experiment with new features or changes without affecting the main codebase or document. You can create a branch, make changes, and then merge the changes back into the main codebase or document if they work as intended.
+- Version control systems provide a way to ensure that changes to the code or document are reviewed and approved before they are merged into the main codebase or document. This helps ensure that the code or document is of high quality and that changes do not introduce new bugs or issues.
 
 
 ## Resources
