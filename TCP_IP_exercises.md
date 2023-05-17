@@ -17,3 +17,12 @@ Suppose you have a computer with an IP address of 10.0.0.5 and a subnet mask of 
 Exercise 3:
 You need to establish a TCP connection between a client and a server. The server's IP address is 192.168.1.10, and it's listening on port 8080. Write a command or code snippet in your preferred programming language to initiate the connection.
 
+### Submit your work
+- Create a document with the answers/commands you used to complete the exercise.
+- Add screenshots of the output of the commands you used to complete the exercise.
+- Submit your work on the slack channel for this activity.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change.](https://github.com/cloudessencegithub/Acceler8/issues/new)_
+

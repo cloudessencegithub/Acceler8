@@ -10,3 +10,12 @@ variations of if statements for testing various types of conditions.
 1. Write a Bash script that generates a random number between 1 and 100 and asks the user to guess the number. The script should provide feedback to the user after each guess, indicating whether the guessed number is too high, too low, or correct. The script should continue until the user correctly guesses the number.
 2. Write a Bash script that prompts the user to enter a number and then determines if the number is odd or even. Display an appropriate message indicating the result.
 3. Write a Bash script that displays a menu with three options: "Option 1", "Option 2", and "Option 3". Prompt the user to enter a number corresponding to their choice. Based on the selected option, display an appropriate message or perform an action
+
+### Submit your work
+- Create a document with the answers/commands you used to complete the exercise.
+- Add screenshots of the output of the commands you used to complete the exercise.
+- Submit your work on the slack channel for this activity.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change.](https://github.com/cloudessencegithub/Acceler8/issues/new)_

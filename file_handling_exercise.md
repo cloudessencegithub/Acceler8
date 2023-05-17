@@ -19,3 +19,13 @@ Python has several functions for creating, reading, updating, and deleting files
 
 7. What is the difference between the read() and readlines() methods?
 8. Create a file call "myfile" and put some content in it
+
+
+### Submit your work
+- Create a document with the answers/commands you used to complete the exercise.
+- Add screenshots of the output of the commands you used to complete the exercise.
+- Submit your work on the slack channel for this activity.
+
+------
+
+_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change.](https://github.com/cloudessencegithub/Acceler8/issues/new)_
