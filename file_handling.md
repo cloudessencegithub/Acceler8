@@ -1,4 +1,4 @@
-# File hanfling with Python
+# File handling with Python
 File handling is an important part of any web application.
 Python has several functions for creating, reading, updating, and deleting files.
 Variables are a fine way to store data while your program is running, but if you want your data to persist even after your program has finished, you need to save it to a file. You can think of a file’s contents as a single string value, potentially gigabytes in size. In this chapter, you will learn how to use Python to create, read, and save files on the hard drive.
